@@ -1,0 +1,22 @@
+Bismillah 
+
+Insha allah complete the following
+
+micro video 
+create, search
+---
+UI
+auto complete
+display video
+---
+
+===
+mongodb+srv://<username>:<password>@cluster0-btjjz.gcp.mongodb.net/admin
+
+mongodb+srv://iqbalforall@gmail.com:Faaiza@786@cluster0-btjjz.gcp.mongodb.net/admin
+1) connect with robo mongodb
+
+https://dochub.mongodb.org/core/atlas-url-encoding
+
+%40 
+for @
